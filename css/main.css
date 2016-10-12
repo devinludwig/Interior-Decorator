@@ -1,0 +1,28 @@
+.before {
+  float:left;
+  width:33%;
+}
+
+.during {
+  float:left;
+  width:33%;
+}
+
+.after {
+  float: left;
+  width: 34%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 80px;
+}
+
+img {
+  width:90%;
+}
+
+h2 {
+  color: blue;
+  font-style: italic;
+}
