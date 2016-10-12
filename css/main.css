@@ -1,16 +1,19 @@
 .before {
   float:left;
   width:33%;
+  background-color: red;
 }
 
 .during {
   float:left;
   width:33%;
+  background-color: yellow;
 }
 
 .after {
   float: left;
   width: 34%;
+  background-color: pink;
 }
 
 h1 {
