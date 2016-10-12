@@ -2,18 +2,21 @@
   float:left;
   width:33%;
   background-color: red;
+  height: 1000px;
 }
 
 .during {
   float:left;
   width:33%;
   background-color: yellow;
+  height: 1000px;
 }
 
 .after {
   float: left;
   width: 34%;
   background-color: pink;
+  height: 1000px;
 }
 
 h1 {
@@ -28,4 +31,18 @@ img {
 h2 {
   color: blue;
   font-style: italic;
+}
+
+@media screen and (max-width: 480px) {
+  .before {
+    width:100%;
+  }
+
+  .during {
+    width:100%;
+  }
+
+  .after {
+    width:100%;
+  }
 }
